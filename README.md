@@ -1,5 +1,7 @@
 # Job Apply Plugin for Codex and Claude Code
 
+> **Fork status / 分支说明:** This is a personal fork of [neonwatty/job-apply-plugin](https://github.com/neonwatty/job-apply-plugin). The existing guide describes the upstream plugin; no separate Syncareer integration is claimed here. / 本仓库是上游求职申请助手的个人 fork，下面保留上游用法；仓库名称中的 `syn` 不代表已实现独立的 Syncareer 集成。
+
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?style=flat&logo=discord&logoColor=white)](https://discord.gg/7xsxU4ZG6A)
 
 AI-powered job application assistant for Claude Code and Codex that fills job applications on LinkedIn Easy Apply, Greenhouse, Ashby, Lever, Rippling, and Workday using visible browser automation.
